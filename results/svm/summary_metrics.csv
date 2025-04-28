@@ -1,0 +1,11 @@
+Metric,Value
+Train MSE,0.014737755348609525
+Train MAE,0.09682718372913429
+Test MSE,0.015434174517655719
+Test MAE,0.09771742583601467
+Avg Rank Improvement,-0.88
+Top-1 Accuracy,0.28
+Top-5 Accuracy,0.52
+Kernel,rbf
+C,1.0
+Epsilon,0.1

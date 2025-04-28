@@ -1,0 +1,21 @@
+Multi-Run Experiment Summary
+==========================
+
+Number of runs: 5
+Train set size: 100
+Validation set size: 18
+Total timesteps per run: 50000
+Game theory enabled: True
+
+Final Results:
+-------------
+Final validation improvement: 0.09 ± 4.08
+Best validation improvement: 3.57 ± 2.31
+
+Individual Run Results:
+----------------------
+Run 1.0 (Seed 3812.0): Final Val: 4.78, Best Val: 4.78, Time: 228.93s
+Run 2.0 (Seed 3813.0): Final Val: 4.94, Best Val: 4.94, Time: 226.69s
+Run 3.0 (Seed 3814.0): Final Val: -1.00, Best Val: 5.28, Time: 225.58s
+Run 4.0 (Seed 3815.0): Final Val: -3.61, Best Val: 3.78, Time: 226.25s
+Run 5.0 (Seed 3816.0): Final Val: -4.67, Best Val: -0.94, Time: 244.71s
